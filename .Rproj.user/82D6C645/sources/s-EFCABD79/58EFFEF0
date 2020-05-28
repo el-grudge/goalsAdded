@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590194522762.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "58EFFEF0",
+    "lastKnownWriteTime" : 1590639031,
+    "last_content_update" : 1590639031979,
+    "path" : "~/R/Projects/GENERAL/goalsAdded/FAWSL.R",
+    "project_path" : "FAWSL.R",
+    "properties" : {
+        "cursorPosition" : "39,0",
+        "scrollLine" : "17"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
